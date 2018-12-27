@@ -1,2 +1,8 @@
 # encryption-algorithm
-上课期间的各种密码学的C#实现，包含轻量级的，有gui
+各种密码学的 C# GUI编程实现，包含：  
+> RSA
+> AES
+> DES
+> Present
+> 扩展欧几里得算法
+> 素性检测
