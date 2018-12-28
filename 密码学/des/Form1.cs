@@ -35,7 +35,7 @@ namespace des
         public des.素性检测.Miller_Robin w6;
         private void 关于ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("密码学与安全计算实验\n\n作者：第三组\n组员：\n         李朝江\n         闫   浩\n         熊贞兰\n         杨雨莎\n         李守静\n\n", "关于", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("密码学与安全计算实验\n\n作者：\n         李朝江", "关于", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
       
         private void Form1_Load(object sender, EventArgs e)
