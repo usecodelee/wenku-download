@@ -17,9 +17,9 @@
 
 ![DES解密](https://github.com/usecodelee/encryption-algorithm/blob/master/imgs/desjian.png)
 
-> AES解密  
+> AES加解密  
 
-![AES解密](https://github.com/usecodelee/encryption-algorithm/blob/master/imgs/aes.png)
+![AES加解密](https://github.com/usecodelee/encryption-algorithm/blob/master/imgs/aes.png)
 
 > Present  
 
